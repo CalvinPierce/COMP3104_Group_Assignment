@@ -1,0 +1,2 @@
+This txt file is about COMP 3104. It is a Dev Ops course taken at George Brown College.
+
