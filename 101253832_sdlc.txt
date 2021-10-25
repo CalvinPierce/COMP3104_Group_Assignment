@@ -3,3 +3,12 @@ In the work environment you want to be as productive as possible and devops help
 
 Devops reduces the daily overhead and eliminates mundane long time consuming tasks with automatic testing
 and enables faster development with easy maintenance.
+
+The biggest focus in devops is culture. Devops focuses on having a good culture because at the end of the day
+people are building your project and people are what matters the most. A person in a good mood
+is going to be a lot more productive than somebody in a bad mood. Devops builds a strong team through 
+communication, collaboration, transparency and shared responsibilities because when everybody is valued and
+involved everyone becomes more interested and builds a better product.
+
+Overall devops is important to learn because it can speed up your workflow and also create a positive
+work environment.
