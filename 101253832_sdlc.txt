@@ -1,0 +1,5 @@
+Devops is important to learn in software development cycles because it is all about productivity.
+In the work environment you want to be as productive as possible and devops helps with that.
+
+Devops reduces the daily overhead and eliminates mundane long time consuming tasks with automatic testing
+and enables faster development with easy maintenance.
