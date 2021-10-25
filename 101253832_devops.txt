@@ -1,0 +1,2 @@
+COMP3104 is a devops course at George Brown taught by Pritesh Patel.
+
