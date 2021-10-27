@@ -1,0 +1,2 @@
+##Devops engineer is involved in every stage of software development cycle. 
+##The mantra is Continuous Integration and Continuous Development
