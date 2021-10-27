@@ -1,0 +1,10 @@
+COMP3104 is a devops course at George Brown taught by Pritesh Patel.
+
+The course is teaching us all about the importance of devops while also giving us a hands-on
+experience using real devops strategies and services with Amazon Web Services, TravisCI and mpre.
+
+We use services like TravisCI because it automatically tests for us reducing our workload and allowing us 
+to focus on actual code, thus being more productive.
+
+We also get good experience using the command line and getting real work experience within github 
+creating branches and merges in labs.
