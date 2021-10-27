@@ -1,3 +1,4 @@
 ##Devops engineer is involved in every stage of software development cycle. 
 ##The mantra is Continuous Integration and Continuous Development
 ##An important tool for version control is github
+##A software development life cycle (SDLC) model is a conceptual framework describing all activities in a software development project from planning to maintenance. This process is associated with several models, each including a variety of tasks and activities.
