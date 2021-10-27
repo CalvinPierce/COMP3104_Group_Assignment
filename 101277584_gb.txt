@@ -1,2 +1,3 @@
 ##first readme file.
-##devops
+##George Brown College, also known as GBC is located in Toronto and has several campuses.
+##Great college to attend.
