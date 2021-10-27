@@ -3,3 +3,4 @@
 ##Great college to attend.
 ##GBC has main campus at Casa Loma
 ##GBC is one of Canada's best colleges.
+##GBC's website is georgebrown.ca
