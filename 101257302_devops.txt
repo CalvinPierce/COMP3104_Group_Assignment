@@ -1,0 +1,5 @@
+Devops is a course in George Brown College for Computer Programmer Analyst in semester 5. 
+
+Its a field where servers, web apps, and infrastructure will be gitcore to business needs.
+
+It will teach you about Amazon Web Services, Ansible, Docker, Travis CI and will become familiar with end-to-end deployment processes
